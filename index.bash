@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export DISPLAY=:0
 Dir=""
 current_hour=$(date +%H)
 
